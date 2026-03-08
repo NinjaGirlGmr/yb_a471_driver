@@ -1,8 +1,6 @@
 # yb_a471_driver
 
-Recreated IMU bridge driver package for the Bluebot stack.
-
-This package provides a ROS 2 Python node named `imu_node` and exposes it as a console entrypoint:
+This package provides a ROS 2 Python node named `imu_node` and exposes it as a console entrypoint for a Yahboom a471 10-axis IMU:
 
 - `ros2 run yb_a471_driver imu_node`
 
